@@ -1,9 +1,11 @@
-# A generative AI based medical assistant built with open-source tools
+# A Generative AI based Chatbot
+
 
 ## 🚀 Project Workflow
 
-# **Step 1 – Setup Memory for LLM (Vector Database)
-**
+
+# **Step 1 – Setup Memory for LLM (Vector Database)**
+
 **1. Load raw PDFs** — import medical or knowledge base documents.
 
 **2. Create text chunks** — split large documents into manageable segments.
@@ -12,13 +14,14 @@
 
 **4. Store embeddings in FAISS** — build a searchable vector database to enable fast and accurate retrieval.
 
-# **Step 2 – Connect Memory with LLM
-**
+
+# **Step 2 – Connect Memory with LLM**
 **1. Setup LLM (Mistral via HuggingFace)** — load the generative language model for response generation.
 
 **2. Integrate LLM with FAISS** — allow the model to retrieve relevant context before answering.
 
 **3. Create a RAG chain** — combine retrieval and generation to produce informed, context-aware responses.
+
 
 # **Step 3 – Build the Chatbot UI**
 
