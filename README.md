@@ -1,5 +1,6 @@
-# A Generative AI based Chatbot
+# A Generative AI based Chatbot 💉 🏥 🩺 💊 👩‍⚕️ 👨‍⚕️
 
+<br>
 
 ## 🚀 Project Workflow
 
@@ -30,3 +31,10 @@
 **2. Load the FAISS vector store into cache** — ensure quick access to the knowledge base.
 
 **3. Enable RAG-based responses** — generate real-time, accurate medical insights powered by generative AI.
+
+
+# Architecture of Model
+
+<img width="1536" height="1024" alt="my_architecture_for _rag" src="https://github.com/user-attachments/assets/9a804cb2-e95f-451e-ae41-054f917eba59" />
+
+
